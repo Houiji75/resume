@@ -55,7 +55,7 @@ Gestion et suivi des opérations et procédures de la délimitation et division 
 - MS Project
 - E-gov, M-gov et GED
 - Power BI, SQL, Python, SGBDR
-- Élaboration des dashboards et visualisation des données, reporting, modélisation OLAP.
+- Élaboration des dashboards et visualisation des données, reporting, modélisation OLAP (Online Analytical Processing).
 
 ### Langues
 - Français : Expérimenté (C2)
