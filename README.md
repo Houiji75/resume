@@ -24,6 +24,23 @@
 ### Ministère de l'intérieur, Tunisie : Administrateur général chargé de mission "Décembre 1998 - Mars 2017"
 - Collecte, traitement, analyse et synthèse des données permettant l’élaboration du cadre législatif et règlementaire visant l’application des nouvelles dispositions de la constitution Tunisienne surtout le chapitre 7 portant « le pouvoir local ».
 
+#### Gouverneur 
+- Supervision du gouvernorat (en tant qu’unité administrative décentralisée et déconcentrée), des structures régionales y afférentes et collectivités territoriales sous tutelle.
+- Participation aux travaux de la commission du projet de réalisation et aménagement de la zone logistique et la plateforme commerciale de Djebel Ouest.
+- Supervision des procédures de coopération bilatérale avec le conseil régional de l’Alsace (France) et le gouvernorat de Zaghouan ainsi que l’élaboration du protocole d’intention de coopération entre les deux parties.
+#### Sous-directeur
+Collecte, traitement et analyse des données, agrégats et indicateurs de l’activité des entités régionales et locales sous tutelle du ministère de l’intérieur.
+Gestion et suivi des opérations et procédures de la délimitation et division territoriale des gouvernorats, délégations et secteurs (Imadas).
+#### Secrétaire général de gouvernorat
+- Gestion de la structure administrative et technique du gouvernorat.
+- Elaboration, gestion et suivi du Programme Régional de Développement (P.R.D) et des programmes spécifiques (programme de développement intégré, programme national de l’emploi des jeunes, agenda 21 …).
+#### Chef de service
+- Développement des applications informatiques assurant le suivi de l’activité des entités régionales et locales sous tutelle du ministère de l’intérieur.
+- Participation à l’élaboration d’une application informatique DATAWAREHOUSE servant comme tableau de bord pour l’aide à la décision au profit de la Direction Générale des Affaires Régionales (D.G.A.R) au ministère de l’intérieur.
+#### Secrétaire général de municipalité
+- Gestion de la structure administrative et technique de la commune.
+- Participation à l’élaboration du P.A.U (Plan d’Aménagement Urbain) de la commune.
+
 
 ## Compétences
 
